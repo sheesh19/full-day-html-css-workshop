@@ -4,7 +4,7 @@
 
 ## Let's get familiar with HTML + CSS and build a landing page. 
 
-Here are the [Slides with Examples](https://drive.google.com/file/d/1vQWL5q2q5FwKucQ1Y795V8Uw1MaQc6uQ/view?usp=sharing)
+Here are the [Slides with Examples](https://bit.ly/2sRFc6r)
 
 Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
 
@@ -123,4 +123,4 @@ If you need any help, feel free to reach out to me at:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
-The [Slide Deck](https://bit.ly/38nMPBo) from today. 
+The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
