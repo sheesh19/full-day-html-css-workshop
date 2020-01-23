@@ -1,5 +1,7 @@
 # Welcome to the Intro to HTML & CSS Workshop! 💅
 
+
+
 ## Let's get familiar with HTML + CSS and build a landing page. 
 
 Here are the [Slides with Examples](https://drive.google.com/file/d/1vQWL5q2q5FwKucQ1Y795V8Uw1MaQc6uQ/view?usp=sharing)
@@ -9,7 +11,8 @@ Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
 Remember, to open your file on the web browser: right click your file & Open With: Chrome. 
 
 
-### Challenge 1: HTML
+
+### Challenge 1 | HTML
 1. Create a folder in your explorer/finder for the files we will create today. 
 2. Inside of your folder, create an `index.html` file. Open it with your text editor. 
 3. Now that you have it open, make sure you have the following code to start your document: 
@@ -36,7 +39,8 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 9. Feel free to include other HTML tags below your the `<div>` you've created + be creative!
 
 
-### Challenge 2: CSS
+
+### Challenge 2 | CSS
 1. First, let's create a new style file: call it `style.css`. 
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
 3. Now that we have our main landing `<div>`, let's give it some style: first let's give it a `class="your-class-here"` name. 
@@ -51,7 +55,9 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 6. Let's add some more style to the other items on your page. Get creative! 
 - Check out some properties you can use to style your page: `color`, `background-color`, `font-size`, `object-fit: center,` `border`, `border-radius`, `padding`, `margin`, ``
 
-### Challenge 3: CSS - Advanced
+
+
+### Challenge 3 | CSS - Advanced
 1. Want to add different fonts? Head to [Google Fonts](https://fonts.google.com/). 
 - Find a text you like. 
 - Copy the `link` tag & put it in your `<head>`. 
@@ -64,20 +70,57 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 3. Use `display: flex` and/or `display: grid` to update the layout on your page somewhere.
 
 
-### Challenge 3: Going Further
+
+### Challenge 3 | Going Further
 1. Excellent, now look for a webpage you want to copy. 
 2. Start to lay out the `HTML tags` on the page. 
 3. Next, begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page. 
 
 
-### Challenge 4: Launch on Netlify 
+
+### Challenge 4 | Google Analytics - Getting Started 
+1. Sign up for Google Analytics. 
+2. Create an Account. 
+3. Create a Property. 
+4. Click `Admin` at the bottom left of your page. Once there, under `Property`, click `Data Streams`.
+5. Under `Data Streams` in the right pane, you should see an option to add a Web/your website.
+6. Once completed, you'll see a bar with your website information. Click this. 
+7. A new window will open, and you'll see `Tagging Instructions` part way down. 
+8. Expand the `Global Site Tag (gtag.js)` tab. 
+9. In the expanded area under `Global Site Tag (gtag.js)`, copy the code. 
+10. Paste this code into the `<head>` of your main HTML page/`index.html`. 
+11. It will look similar to this: 
+```
+<html>
+<head>
+	-- Your pasted Google Analytics Tag scripts --
+</head>
+</html>
+```
+12. Congratulations! Now you can track how your users are interacting with your app. 
+
+
+
+### Challenge 4 | Launch on Netlify 
 1. Sign up for [Netlify](www.netlify.com)
 2. Once you're logged in, drag the folder of code you made today into space on Netlify that says: `Want to deploy a new site without connecting to Git? Drag and drop your site folder here`
 3. Launch your website & share with your friends! 
 
 
 
+#### Further Resources: 
+
 If you want to learn more about HTML & CSS, here are some great resources: 
 - [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
 - [W3Schools | CSS](https://www.w3schools.com/css/)
 - [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
+
+- [Google Analytics Documentation- Set up Analytics Tag](https://support.google.com/analytics/answer/1008080)
+- [Google Analytics Help Center + Documentation](https://support.google.com/analytics/?hl=en#topic=3544906)
+
+If you need any help, feel free to reach out to me at:
+
+[LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
+[Personal Website](www.sheilaleveille.com)
+
+The [Slide Deck](https://bit.ly/38nMPBo) from today. 
