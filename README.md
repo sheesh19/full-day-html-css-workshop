@@ -45,7 +45,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
 3. Now that we have our main landing `<div>`, let's give it some style: first let's give it a `class="your-class-here"` name. 
 4. For the `class` that you have created, let's give it some styling: 
-- Find a background image on [Unsplash](www.unsplash.com)
+- Find a background image on Unsplash at www.unsplash.com .
 - Give the `<div>` a `background-image: url();` and use the image you found. 
 - Next, give the `<div>` some `height` & `width`. 
 - Next, change the `color` of the text in the `<div>`. 
