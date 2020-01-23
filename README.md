@@ -61,6 +61,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Add in a navbar for your page. Remember to update the links of the navbar. See if you can link to another page you create.
 - Add cards to your page- checkout the Boostrap cards section.
 - Add a footer to your page. This may need some custom CSS. 
+3. Use `display: flex` and/or `display: grid` to update the layout on your page somewhere.
 
 
 ### Challenge 3: Going Further
