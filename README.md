@@ -72,9 +72,11 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 ### Challenge 3 | Going Further
-1. Excellent, now look for a webpage you want to copy. 
-2. Start to lay out the `HTML tags` on the page. 
-3. Next, begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page. 
+1. Excellent, now let's plan out a site that you want to build. Start by drawing on a piece of paper. Think of the `divs` you need to group things together. 
+2. Make a new `html` file to contain all of your content. Start by laying out the `HTML tags` on the page. 
+3. Next, create your `style.css` page. Make sure to link it! Begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page you want to build. 
+4. Do you need CSS grid or flexbox to make some of the layout changes? 
+5. Use Boostrap & Google Fonts to customise your page! 
 
 
 
