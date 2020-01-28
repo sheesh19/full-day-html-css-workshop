@@ -80,29 +80,6 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 
-### Challenge 4 | Google Analytics - Getting Started 
-1. Sign up for Google Analytics. 
-2. Create an Account. 
-3. Create a Property. 
-4. Click `Admin` at the bottom left of your page. Once there, under `Property`, click `Data Streams`.
-5. Under `Data Streams` in the right pane, you should see an option to add a Web/your website.
-6. Once completed, you'll see a bar with your website information. Click this. 
-7. A new window will open, and you'll see `Tagging Instructions` part way down. 
-8. Expand the `Global Site Tag (gtag.js)` tab. 
-9. In the expanded area under `Global Site Tag (gtag.js)`, copy the code. 
-10. Paste this code into the `<head>` of your main HTML page/`index.html`. 
-11. It will look similar to this: 
-```
-<html>
-<head>
-	-- Your pasted Google Analytics Tag scripts --
-</head>
-</html>
-```
-12. Congratulations! Now you can track how your users are interacting with your app. 
-
-
-
 ### Challenge 4 | Launch on Netlify 
 1. Sign up for [Netlify](www.netlify.com)
 2. Once you're logged in, drag the folder of code you made today into space on Netlify that says: `Want to deploy a new site without connecting to Git? Drag and drop your site folder here`
@@ -116,9 +93,6 @@ If you want to learn more about HTML & CSS, here are some great resources:
 - [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
 - [W3Schools | CSS](https://www.w3schools.com/css/)
 - [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
-
-- [Google Analytics Documentation- Set up Analytics Tag](https://support.google.com/analytics/answer/1008080)
-- [Google Analytics Help Center + Documentation](https://support.google.com/analytics/?hl=en#topic=3544906)
 
 If you need any help, feel free to reach out to me at:
 
