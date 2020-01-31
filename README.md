@@ -50,6 +50,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Next, give the `<div>` some `height` & `width`. 
 - Next, change the `color` of the text in the `<div>`. 
 - Next, let's `text-align: center;` the text in our `<div>`. 
+- Check out more examples of CSS styling here: [W3Schools | CSS](https://www.w3schools.com/css/)
 5. Give the `<h1>` in your page some styling: 
 - Let's play with the `padding-top` and move it lower on our background image. 
 6. Let's add some more style to the other items on your page. Get creative! 
