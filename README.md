@@ -71,7 +71,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 
-### Challenge 3 | Going Further
+### Challenge 4 | Going Further
 1. Excellent, now let's plan out a site that you want to build. Start by drawing on a piece of paper. Think of the `divs` you need to group things together. 
 2. Make a new `html` file to contain all of your content. Start by laying out the `HTML tags` on the page. 
 3. Next, create your `style.css` page. Make sure to link it! Begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page you want to build. 
@@ -80,7 +80,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 
-### Challenge 4 | Launch on Netlify 
+### Challenge 5 | Launch on Netlify 
 1. Sign up for [Netlify](www.netlify.com)
 2. Once you're logged in, drag the folder of code you made today into space on Netlify that says: `Want to deploy a new site without connecting to Git? Drag and drop your site folder here`
 3. Launch your website & share with your friends! 
