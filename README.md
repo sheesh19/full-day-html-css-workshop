@@ -6,7 +6,7 @@
 
 Here are the [Slides with Examples](https://bit.ly/2sRFc6r)
 
-Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3)
+Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3) or [VS Code](https://code.visualstudio.com/download)
 
 Remember, to open your file on the web browser: right click your file & Open With: Chrome. 
 
@@ -94,6 +94,7 @@ If you want to learn more about HTML & CSS, here are some great resources:
 - [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
 - [W3Schools | CSS](https://www.w3schools.com/css/)
 - [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
+- Wes Bos & Scott Tolinski (leveluptutorials.com)
 
 If you need any help, feel free to reach out to me at:
 
