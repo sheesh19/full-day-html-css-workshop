@@ -1,4 +1,8 @@
 
+ @import 'components/banner.css';
+ @import 'components/button.css';
+ @import 'components/card.css';
+ 
  body {
   margin: 0;
   font-family: 'Lato', sans-serif;
