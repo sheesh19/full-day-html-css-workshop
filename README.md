@@ -35,15 +35,15 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 5. In between your `<body>` tags, let's add some HTML structure. Use an `<h1>` tag and give your site a heading.
 6. Now use a `<p>` for some text in your site. 
 7. Let's use a link in your HTML with an `<a>` tag.
-8. Lets put `<div>` tags around all of the content we've created so far.
-9. Feel free to include other HTML tags below your the `<div>` you've created + be creative!
+8. Lets put a `<div>` tag around all of the content we've created so far within the `<body>`.
+9. Feel free to include other HTML tags below the `<div>` you've created + be creative!
 
 
 
 ### Challenge 2 | CSS
 1. First, let's create a new style file: call it `style.css`. 
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
-3. Now that we have our main landing `<div>`, let's give it some style: first let's give it a `class="your-class-here"` name. 
+3. From your previous challenge, you should have a `<div>` around all the content in your `<body>`. Let's give it some style! First let's give it a class with: `class="your-class-here"`. 
 4. For the `class` that you have created, let's give it some styling: 
 - Find a background image on Unsplash at www.unsplash.com .
 - Give the `<div>` a `background-image: url();` and use the image you found. 
