@@ -13,9 +13,8 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 ### Challenge 1 | HTML
-1. Create a folder in your explorer/finder for the files we will create today. 
-2. Inside of your folder, create an `index.html` file. Open it with your text editor. 
-3. Now that you have it open, make sure you have the following code to start your document: 
+1. Clone or download this repository (you can use your command line or download it directly to your desktop). 
+3. Now that you have the file structure, open it in your text editor, make sure you have the following code to start your document: 
 ```
 <!DOCTYPE html>
 <html>
@@ -31,7 +30,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
   
 </html>
 ```
-4. Give your webpage a title. 
+4. Update the title of your webpage a title. `<title>`
 5. In between your `<body>` tags, let's add some HTML structure. Use an `<h1>` tag and give your site a heading.
 6. Now use a `<p>` for some text in your site. 
 7. Let's use a link in your HTML with an `<a>` tag.
@@ -41,7 +40,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 ### Challenge 2 | CSS
-1. First, let's create a new style file: call it `style.css`. 
+1. First, navigate to your `style.css` file. What code is already in there? What is it doing? Change the background to a . 
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
 3. Now that we have our main landing `<div>`, let's give it some style: first let's give it a `class="your-class-here"` name. 
 4. For the `class` that you have created, let's give it some styling: 
@@ -101,3 +100,18 @@ If you need any help, feel free to reach out to me at:
 [Personal Website](www.sheilaleveille.com)
 
 The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
+
+
+<!-- Boiler plate in case you get stuck -->
+    <!-- Google Fonts Link -->
+    <link href="https://fonts.googleapis.com/css?family=Cambay|Lato&display=swap" rel="stylesheet">
+    <!-- Bootstrap Link -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- CSS Styles -->
+    <link rel="stylesheet" href="css/style.css">
+
+<!-- Random Links, taken from the header -->
+    <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script> -->
+  
