@@ -66,7 +66,6 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Remember that `display: flex` goes on the parent `div` to influence all its children `elements` 
 - Good resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 - Fun game: https://flexboxfroggy.com/
-- Add in a navbar for your page. Remember to update the links of the navbar. See if you can link to another page you create.
 - Add cards to your page using `flexbox` to align everything
 - Add a footer to your page. This may need some custom CSS. 
 
