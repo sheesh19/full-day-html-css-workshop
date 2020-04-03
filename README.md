@@ -62,12 +62,13 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Find a text you like. 
 - Copy the `link` tag & put it in your `<head>`. 
 - Update your `font-family` css attribute. 
-2. Next, import [Bootstrap](https://getbootstrap.com/). Make sure to link their `stylesheet` in your `<head>`! Remember to scroll down the main page and copy the CSS link under the heading: BootstrapCDN. 
-- Add some button styling!
+2. Play around with Flex Box
+- Remember that `display: flex` goes on the parent `div` to influence all its children `elements` 
+- Good resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+- Fun game: https://flexboxfroggy.com/
 - Add in a navbar for your page. Remember to update the links of the navbar. See if you can link to another page you create.
-- Add cards to your page- checkout the Boostrap cards section.
+- Add cards to your page using `flexbox` to align everything
 - Add a footer to your page. This may need some custom CSS. 
-3. Use `display: flex` and/or `display: grid` to update the layout on your page somewhere.
 
 
 
@@ -93,26 +94,18 @@ If you want to learn more about HTML & CSS, here are some great resources:
 - [W3Schools | HTML](https://www.w3schools.com/tags/tag_img.asp)
 - [W3Schools | CSS](https://www.w3schools.com/css/)
 - [Codecademy's Online Tutorial](https://www.codecademy.com/catalog/language/html-css)
-- Wes Bos & Scott Tolinski (leveluptutorials.com)
+- Wes Bos & Scott Tolinski (https://leveluptutorials.com)
 
-If you need any help, feel free to reach out to me at:
+If you need any help, feel free to reach out:
 
+Sheila:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
+Ben
+[LinkedIn] (https://www.linkedin.com/in/benjaminquartermaine/)
+[Personal Website] (https://www.benjaminquartermaine.com/)
+
+
 The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
 
-
-<!-- Boiler plate in case you get stuck -->
-    <!-- Google Fonts Link -->
-    <link href="https://fonts.googleapis.com/css?family=Cambay|Lato&display=swap" rel="stylesheet">
-    <!-- Bootstrap Link -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-    <!-- CSS Styles -->
-    <link rel="stylesheet" href="css/style.css">
-
-<!-- Random Links, taken from the header -->
-    <!-- <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script> -->
-  
