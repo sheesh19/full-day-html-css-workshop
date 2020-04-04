@@ -40,7 +40,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 ### Challenge 2 | CSS
-1. First, navigate to your `style.css` file. What code is already in there? What is it doing? Change the background to a . 
+1. First, navigate to your `style.css` file. What code is already in there? What is it doing? 
 2. Next, make sure to link it in the head: `<link rel="stylesheet" href="style.css">`. 
 3. From your previous challenge, you should have a `<div>` around all the content in your `<body>`. Let's give it some style! First let's give it a class with: `class="your-class-here"`. 
 4. For the `class` that you have created, let's give it some styling: 
