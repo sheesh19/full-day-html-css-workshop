@@ -67,7 +67,6 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Remember that `display: flex` goes on the parent `div` to influence all its children `elements` 
 - Good resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 - Fun game: https://flexboxfroggy.com/
-- Add cards to your page using `flexbox` to align everything
 - Add a footer to your page. This may need some custom CSS. 
 
 
@@ -88,8 +87,8 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 ```
 
-4. Try to customise your own Bootstrap cards! 
-5. Use Boostrap buttons or a Carousel. 
+4. Try to customise your own Bootstrap cards! How can you put three cards in one line? Use `flexbox` on the `div` that contains your cards.
+5. Use Boostrap navbars or try to use the carousel. 
 
 
 
