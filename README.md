@@ -4,7 +4,7 @@
 
 ## Let's get familiar with HTML + CSS and build a landing page. 
 
-Here are the [Slides with Examples](https://bit.ly/2sRFc6r) or https://drive.google.com/file/d/1oMgdo6Div5FHtpVXpOiPZ-hfBBUEREpH/view?usp=sharing
+Here are the slides with examples: https://drive.google.com/file/d/1oMgdo6Div5FHtpVXpOiPZ-hfBBUEREpH/view?usp=sharing
 
 Make sure you have a text editor like [Sublime](https://www.sublimetext.com/3) or [VS Code](https://code.visualstudio.com/download)
 
@@ -106,5 +106,5 @@ Ben
 [Personal Website] (https://www.benjaminquartermaine.com/)
 
 
-The [Slide Deck](https://bit.ly/2sRFc6r) from today. 
+The slides from today:  https://drive.google.com/file/d/1oMgdo6Div5FHtpVXpOiPZ-hfBBUEREpH/view?usp=sharing
 
