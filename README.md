@@ -62,6 +62,7 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 - Find a text you like. 
 - Copy the `link` tag & put it in your `<head>`. 
 - Update your `font-family` css attribute. 
+
 2. Play around with Flex Box
 - Remember that `display: flex` goes on the parent `div` to influence all its children `elements` 
 - Good resource: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
@@ -71,12 +72,17 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 
 
-### Challenge 4 | Going Further
-1. Excellent, now let's plan out a site that you want to build. Start by drawing on a piece of paper. Think of the `divs` you need to group things together. 
-2. Make a new `html` file to contain all of your content. Start by laying out the `HTML tags` on the page. 
-3. Next, create your `style.css` page. Make sure to link it! Begin to give the page some `CSS` and style! Try to make the styling as close as possible to the page you want to build. 
-4. Do you need CSS grid or flexbox to make some of the layout changes? 
-5. Use Boostrap & Google Fonts to customise your page! 
+### Challenge 4 | Bootstrap
+1. Use Boostrap to customise your page! https://getbootstrap.com/
+2. Remember to import Bootstrap in the `head` of your html: 
+`<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">`
+3. To use the Javascript Bootstrap components, put the following lines right above your closing `</body>` tag in your html: 
+
+`<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>`
+4. Try to customise your own Bootstrap cards! 
+5. Use Boostrap buttons or a Carousel. 
 
 
 
