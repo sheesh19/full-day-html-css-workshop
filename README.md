@@ -74,8 +74,12 @@ Remember, to open your file on the web browser: right click your file & Open Wit
 
 ### Challenge 4 | Bootstrap
 1. Use Boostrap to customise your page! https://getbootstrap.com/
-2. Remember to import Bootstrap in the `head` of your html: 
-`<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">`
+2. Remember to import Bootstrap in the `head` of your html:
+
+```
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+```
+
 3. To use the Javascript Bootstrap components, put the following lines right above your closing `</body>` tag in your html: 
 
 ```
