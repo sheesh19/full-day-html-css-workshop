@@ -1,0 +1,77 @@
+body {
+  margin: 0;
+  /*font-family: 'Lato', sans-serif;*/
+  background: #cedee8;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* TODO */
+.header {
+  color: teal;
+  text-decoration: underline;
+}
+.banner {
+  height: 60vh;
+  padding: 148px;
+  background-image: url("https://images.unsplash.com/photo-1504198266287-1659872e6590?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80");
+  background-size: cover;
+  background-position: center;
+}
+.cta-button {
+  color: white;
+  background-color: #004844;
+  padding: 24px 32px;
+  display: inline-block;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+.cta-button:hover {
+  background-color: #dcba92;
+}
+
+
+.card-img-fit {
+  background-size: cover;
+  width: 100%;
+}
+
+.cards {
+  /*display: flex;*/
+  justify-content: space-between;
+  margin: 40px 0;
+}
+
+.container {
+  margin: 40px 0;
+}
+
+.carousel-height {
+  height: 60vh;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
