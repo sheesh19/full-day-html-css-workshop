@@ -118,8 +118,8 @@ Sy:
 [Personal Website](https://syrashid.github.io)
 
 Ben
-[LinkedIn] (https://www.linkedin.com/in/benjaminquartermaine/)
-[Personal Website] (https://www.benjaminquartermaine.com/)
+[LinkedIn](https://www.linkedin.com/in/benjaminquartermaine/)
+[Personal Website](https://www.benjaminquartermaine.com/)
 
 
 The slides from today:  https://drive.google.com/file/d/1oMgdo6Div5FHtpVXpOiPZ-hfBBUEREpH/view?usp=sharing
