@@ -111,7 +111,7 @@ If you need any help, feel free to reach out:
 
 Sheila:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
-[Personal Website](www.sheilaleveille.com)
+[www.sheilaleveille.com](https://www.sheilaleveille.com)
 
 Sy:
 [LinkedIn](https://www.linkedin.com/in/syrashid/)
