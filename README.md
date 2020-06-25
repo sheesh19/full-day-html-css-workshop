@@ -111,11 +111,11 @@ If you need any help, feel free to reach out:
 
 Sheila:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
-[www.sheilaleveille.com](https://www.sheilaleveille.com)
+[Personal Website](https://www.sheilaleveille.com)
 
 Sy:
 [LinkedIn](https://www.linkedin.com/in/syrashid/)
-[Personal Website](www.syrashid.github.io)
+[Personal Website](https://syrashid.github.io)
 
 Ben
 [LinkedIn] (https://www.linkedin.com/in/benjaminquartermaine/)
