@@ -113,6 +113,10 @@ Sheila:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
+Sy:
+[LinkedIn](https://www.linkedin.com/in/syrashid/)
+[Personal Website](www.syrashid.github.io)
+
 Ben
 [LinkedIn] (https://www.linkedin.com/in/benjaminquartermaine/)
 [Personal Website] (https://www.benjaminquartermaine.com/)
